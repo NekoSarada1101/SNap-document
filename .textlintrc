@@ -5,6 +5,9 @@
     }
   },
   "rules": {
+    "no-mixed-zenkaku-and-hankaku-alphabet": {
+        "prefer": "半角"
+        },
     "preset-ja-technical-writing": {
         "no-exclamation-question-mark": {
         "allowFullWidthExclamation": true,
