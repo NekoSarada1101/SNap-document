@@ -13,6 +13,7 @@ Node.js で自作 Web サービスを開発しようとしています。
 日によって出来が違うので試行錯誤中である
 お寿司を食べれない。
 お腹すいた
+今日の昼飯は何かなぁ
  
 ［Twitter］https://twitter.com/kmgt_system_biz
 ［Note］https://note.mu/mkamagata
